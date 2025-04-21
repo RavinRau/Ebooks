@@ -14,16 +14,21 @@ This repository aims to:
 
 ### 📑 Categories
 
-This section will be updated soon.
-
+- [Artificial Intelligence](./Artificial%20Intelligence)
+- [Software Engineering Principle](./Software%20Engineering%20Principle)
+- [System Design](./System%20Design)
+- [Database](./Database)
+- [Frontend](./Frontend)
+- [Management](./Management)
+- [Devops](./Devops)
 
 ### ⚠️ Important Notice
 
 This repository is created in the spirit of knowledge sharing and education. If you find value in any of these books, please consider:
 
-Purchasing the books to support the authors
-Sharing your insights and reviews
-Contributing to the discussion
+- Purchasing the books to support the authors
+- Sharing your insights and reviews
+- Contributing to the discussion
 
 Note: The official purchase links are provided for each book. Supporting content creators ensures the continued production of quality educational materials.
 
